@@ -4,7 +4,7 @@
 
 An Android app made with Kiwimake.
 
-No version is published yet.
+Latest version: **1.0** (build 10), published 2026-11-20.
 
 ## Install
 
